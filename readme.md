@@ -5,6 +5,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Live App
+
+<a href="https://prismatic-code-in-mind.herokuapp.com/">https://prismatic-code-in-mind.herokuapp.com/<a>
+
 ## Description
 
 This is a full stack app using the MERN stack along with Graphql. Admin users can create courses that registered users can view and click a button to enroll. User can also drop a course and admins can delete courses they create.
@@ -12,6 +16,7 @@ This is a full stack app using the MERN stack along with Graphql. Admin users ca
 ## Table of Contents
 
 - [License](#license)
+- [Link](#link)
 - [Description](#description)
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
